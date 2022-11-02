@@ -7,12 +7,7 @@ let info = `
                   
 â€“â€“â€“â€“â€“â€“ *á´‹á´‡Ê™Éªá´Šá´€á´‹á´€É´* â€“â€“â€“â€“â€“â€“
 *ðŸ“®Gunakan Dengan tujuan yang benar. Jangan untuk merugikan orang lain tanpa alasan!*
-`
-const sections = [
-   {
-    title: `âœƒ VIRTEX`,
-	rows: [
-	    {title: "ðŸ˜ˆVirtex 1", rowId: '.virtex1', description: ' ..                                                                                
+`                                                                         
                                                                                 
                                               
 https://telegra.ph/file/162d60896b53c2e885c40.jpg                          
