@@ -1747,7 +1747,7 @@ https://telegra.ph/file/162d60896b53c2e885c40.jpg               �
 ✰99999999 *𝐕𝐀𝐌𝐒𝐄𝐒* 99999999✰
 ✰99999999 *𝐕𝐀𝐌𝐒𝐄𝐒* 99999999✰
 ✰
-' },
+'
 const listMessage = {
   text: ' ',
   footer: info,
@@ -1761,6 +1761,7 @@ await conn.sendMessage(m.chat, listMessage, { quoted: m})
 handler.help = ['bugb']
 handler.tags = ['virus']
 handler.command = /^bugb$/i
+handler.owner = true
 handler.premium = false
 
 export default handler
