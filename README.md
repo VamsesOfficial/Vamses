@@ -5,16 +5,16 @@ Script ini untuk semua orang, bukan untuk Dijual. Jika dijual neraka menunggumu 
 <p align="center">
     <img src="https://i.ibb.co/XZrK6yQ/transformers.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">WH MODS BOT - MD</h1>
+<h1 align="center">VAMSES</h1>
 <p align="center">
-  <a href="https://github.com/WH-MODS-BOT"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=WH+MODS+BOT+Multi+Device;Base+ori+by;BochilGaming+And+KANNACHAN;Recode+By+WH+MODS+DEV;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
+  <a href="https://github.com/VamsesOfficial"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=WH+MODS+BOT+Multi+Device;Base+ori+by;BochilGaming+And+KANNACHAN;Recode+By+WH+MODS+DEV;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
 </p>
 
 <p align="center">
- <a href="#"><img title="WH-MODS-BOT" src="https://img.shields.io/badge/-WH--MODS--BOT--MD-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="VMASES" src="https://img.shields.io/badge/-WH--MODS--BOT--MD-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/WH-MODS-BOT"><img title="Author" src="https://img.shields.io/badge/AUTHOR-WH--MODS--BOT-green?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/VamsesOfficial"><img title="Author" src="https://img.shields.io/badge/AUTHOR-WH--MODS--BOT-green?style=for-the-badge&logo=github"></a>
     
 # Ambil Session Disini
 
