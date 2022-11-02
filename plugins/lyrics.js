@@ -7,11 +7,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
     m.reply(`
 Lyrics *${result.title}*
 Author ${result.author}
-
-
 ${result.lyrics}
-
-
 Url ${result.link}
 `.trim())
 }
