@@ -30,13 +30,13 @@ await conn.sendFile(m.chat, audio, 'error.mp3', null, fkontak, true, {
 type: 'audioMessage', 
 ptt: false, seconds: 0,contextInfo: {
          externalAdReply: { showAdAttribution: true,
- mediaUrl: 'www.instagram.com/_ctzhid',
+ mediaUrl: 'www.instagram.com/ketutagus404',
     mediaType: 2, 
-    description: 'www.instagram.com/_ctzhid',
+    description: 'www.instagram.com/ketutagus404',
     title: "Now Playing...",
     body: wm,
-    thumbnail: await (await fetch('https://i.ibb.co/XZrK6yQ/transformers.jpg')).buffer(),
-    sourceUrl: 'www.instagram.com/_ctzhid'
+    thumbnail: await (await fetch('https://telegra.ph/file/abecb227fe35a2f0cc069.jpg')).buffer(),
+    sourceUrl: 'www.instagram.com/ketutagus404'
  	  }
      }
     })
