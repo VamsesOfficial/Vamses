@@ -6,8 +6,8 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
     if (!res) throw res.message;
     conn.send2ButtonVid(m.chat, res.video, `*Judul:* ${res.title}\n${res.author ? `*Pembuat Video:* ${res.author}` : '\n' }`.trim(), 'Cara simpan digalery:\n1. Download dulu videonya\n2. Buka terus klik titik 3 pojok kanan atas\n3. lalu klik simpan!', 'WM Video', `.get ${res.videoWM}`, 'Audio', `.get ${res.audio}`, m)
 }
-handler.help = ['malesin'].map(v => v + ' <url>')
-
-handler.command = /^(malesin)$/i
+handler.help = ['tiktok', 'tiktok', 'tiktokdl'].map(v => v + ' <url>')
+handler.tags = ['downloader']
+handler.command = /^(tik(tok)?(tok)?(dl)?)$/i
 
 export default handler
